@@ -1,0 +1,19 @@
+.container h3 {
+  margin-bottom: 20px;
+}
+
+.home {
+  display: block;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.character-detail p {
+  margin-bottom: 5px;
+}
+
+.table {
+  margin-top: 20px;
+}
